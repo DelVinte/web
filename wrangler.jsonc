@@ -8,7 +8,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "del20",
+	"name": "web",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2026-04-07",
 	"compatibility_flags": [
